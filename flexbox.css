@@ -1,0 +1,28 @@
+.containter{
+    display: flex;
+    
+    border: 12px solid black;
+    height: 90vh;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    font-size: 8em;
+    text-align: center;
+    border-radius: 15px;
+
+}
+#box1{
+    background-color: blueviolet;
+}
+#box2{
+    background-color:aqua;
+}
+#box3{
+    background-color:brown;
+}
+#box4{
+    background-color:bisque;
+}

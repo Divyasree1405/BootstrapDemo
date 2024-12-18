@@ -1,0 +1,21 @@
+.container{
+    border: 20px solid brown;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    line-height: 20px;
+    background-image: url(images/sumathi\ logo.jpg);
+    font-style: italic;
+    height: 400px;
+    width: 400px;
+    float: left;
+
+}
+h2{
+    background-color: orange;
+    padding: 20px;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+}
